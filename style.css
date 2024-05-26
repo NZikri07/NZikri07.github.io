@@ -1,0 +1,13 @@
+body{
+    font-family: poppins;
+    background-color: darkmagenta;
+    color: white;
+}
+
+.USIM{
+    background-color: brown;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
